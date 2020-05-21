@@ -4,11 +4,11 @@
   box-sizing: border-box;
 }
 
-.sfondo{
+.bg-pink{
   background-color: pink;
 }
 
-.sfondo2{
+.bg-red{
   background-color: red;
   height: 150px;
 }
