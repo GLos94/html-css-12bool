@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sfondo{
+  background-color: pink;
+}
+
+/* .sfondo2{
+  background-color: red;
+} */
+
+/* regole di debug */
+[class*="col-"] {
+  height: 150px;
+  border: solid 1px #000;
+  text-align: center;
+}
+
+span{
+ line-height: 9;
+}
