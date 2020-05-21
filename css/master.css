@@ -10,7 +10,8 @@
 
 .sfondo2{
   background-color: red;
-} 
+  height: 150px;
+}
 
 /* regole di debug */
 [class*="col-"] {
