@@ -8,9 +8,9 @@
   background-color: pink;
 }
 
-/* .sfondo2{
+.sfondo2{
   background-color: red;
-} */
+} 
 
 /* regole di debug */
 [class*="col-"] {
